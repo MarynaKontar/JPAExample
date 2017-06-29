@@ -13,6 +13,9 @@
         <class>com.app.model.Child</class>
         <class>com.app.model.ChildA</class>
         <class>com.app.model.Parent</class>
+        <class>com.app.model.Device</class>
+        <class>com.app.model.Jet</class>
+        <class>com.app.model.JetClientThread</class>
         <properties>
             <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/dao_db?useUnicode=true&amp;useSSL=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC"/>
             <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
